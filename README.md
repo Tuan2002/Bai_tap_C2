@@ -1,5 +1,7 @@
-BÀI TẬP CHƯƠNG 2:
-Nguyễn Ngọc Anh Tuấn 62K1 – CNTT
+BÀI TẬP CHƯƠNG 2:.
+
+Nguyễn Ngọc Anh Tuấn 62K1 – CNTT.
+
 Bài 1:
 -	Phương pháp giải:
 •	Gán chuỗi string cho những biến cho trước
@@ -12,15 +14,14 @@ Bài 2:
 -	Các câu lệnh được sử dụng: “printf(); , scanf(); , getch(); và gán”.
 -	Chức năng của chương trình là tính tổng, hiệu, tích và thương 2 số a và b nhập từ bàn phím.
 
-(Ghi chú: Do mình sử dụng hệ điều hành macOS nên phải dùng thư viện <curses.h> thay cho <conio.h> với chức năng tương đương)
+(Ghi chú: Do mình sử dụng hệ điều hành macOS nên phải dùng thư viện <curses.h> thay cho <conio.h> với chức năng tương đương).
 
 Bài 3: Lỗi cú pháp ở cách gọi biến ở dòng số 8 và thiếu dấu chấm phẩy ở cuối dòng số 5.
 
-(Đây là kết quả sau khi sửa)
 Bài 4: 
 Số thập phân: 3.14
-Số chấm phẩy động: 314E-5
-(Kết quả)
+Số chấm phẩy động: 314E-5.
+
 Bài 5: Giá trị của biểu thức:
 
 -	A= -3+4%5/2 = 1
@@ -28,10 +29,10 @@ Bài 5: Giá trị của biểu thức:
 -	C= !++3%4 = 0
 -	D=!(++4%4) = 1
 
- Bài 6: 
-- Sử dụng %d và %o để in ra kết quẩ
+Bài 6: 
+- Sử dụng %d và %o để in ra kết quả.
 Bài 7:
-- Sử dụng tóon dịch bit để làm a<<n
+- Sử dụng phương pháp khai triển và tóon dịch bit để làm a<<n.
 
 Bài 8: 
 Input: 3 số a, b, c
