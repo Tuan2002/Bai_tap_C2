@@ -31,6 +31,7 @@ Bài 5: Giá trị của biểu thức:
 
 Bài 6: 
 - Sử dụng %d và %o để in ra kết quả.
+
 Bài 7:
 - Sử dụng phương pháp khai triển và tóon dịch bit để làm a<<n.
 
